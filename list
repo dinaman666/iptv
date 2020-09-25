@@ -13,28 +13,28 @@
 	        {
 			"name": "Thai TV",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/510px-Flag_of_Thailand.svg.png",
-			"url": "https://raw.githubusercontent.com/dinaman666/iptv/master//thaitv01.m3u",
+			"url": "https://raw.githubusercontent.com/dinaman666/iptv/master/thaitv",
 			"import": false
 		},	
 
 		{
 			"name": "Entertainment",
 			"image": "https://pbs.twimg.com/profile_images/892744367449964544/TTPUoKHv_400x400.jpg",
-enter			"url": "https://raw.githubusercontent.com/dinaman666/iptv/master/entertainment.m3u",
+enter			"url": "https://raw.githubusercontent.com/dinaman666/iptv/master/entertainment",
 			"import": false
 		},
 
                {
 			"name": "Documentary",
 			"image": "http://rainforestmovie.ca/w1/wp-content/uploads/logo-documentary.jpg",
-			"url": "https://raw.githubusercontent.com/dinaman666/iptv/master/docs01.m3u",
+			"url": "https://raw.githubusercontent.com/dinaman666/iptv/master/docs01",
 			"import": false
 		},
 		
                {
 			"name": "Kids",
 			"image": "https://images.megapixl.com/4907/49070655.jpg",
-			"url": "https://raw.githubusercontent.com/dinaman666/iptv/master/kids.m3u",
+			"url": "https://raw.githubusercontent.com/dinaman666/iptv/master/kids",
 			"import": false
 		},
 
